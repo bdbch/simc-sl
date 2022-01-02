@@ -1,0 +1,15 @@
+# Leather Hands
+#
+
+copy="Hakkari Revenant's Grips (De Other Side)"
+hands=,id=179325,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Iron Spiked Handgrips (Sanguine Depths)"
+hands=,id=178841,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Grips of Overwhelming Beatings (Theater of Pain)"
+hands=,id=178798,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

@@ -1,0 +1,18 @@
+# Leather Wrists
+#
+
+copy="Reality-Shatter Vambraces (De Other Side)"
+wrists=,id=179354,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vambraces of the Depraved Warden (Sanguine Depths)"
+wrists=,id=178845,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Thunderous Echo Vambraces (Spires of Ascension)"
+wrists=,id=180113,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Pit Fighter's Wristguards (Theater of Pain)"
+wrists=,id=178807,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

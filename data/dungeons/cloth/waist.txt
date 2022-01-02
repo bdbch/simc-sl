@@ -1,0 +1,18 @@
+# Cloth Waist
+#
+
+copy="Sash of Exquisite Acquisitions (De Other Side)"
+waist=,id=179343,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Cord of the Dark Word (Halls of Atonement)"
+waist=,id=178822,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Kin-Tara's Baleful Cord (Spires of Ascension)"
+waist=,id=180109,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fallen Empress's Cord (Theater of Pain)"
+waist=,id=178804,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

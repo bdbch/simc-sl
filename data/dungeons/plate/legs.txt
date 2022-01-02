@@ -1,0 +1,18 @@
+# Leather Legs
+#
+
+copy="Halkias's Towering Pillars (Halls of Atonement)"
+legs=,id=178818,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Legplates of Unholy Frenzy (Necrotic Wake)"
+legs=,id=178739,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gormshell Greaves (Mists of Tirna Scithe)"
+legs=,id=178701,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Galvanized Oxxein Legguards (Theater of Pain)"
+legs=,id=178800,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

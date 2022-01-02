@@ -1,0 +1,18 @@
+# Leather Legs
+#
+
+copy="Techno-Coil Legguards (De Other Side)"
+legs=,id=179337,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Lichbone Legguards (Necrotic Wake)"
+legs=,id=178778,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Wind Dancer's Legguards (Sanguine Depths)"
+legs=,id=178839,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Blightborne Chain Legguards (Plaguefall)"
+legs=,id=178762,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

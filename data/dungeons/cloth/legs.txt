@@ -1,0 +1,18 @@
+# Cloth Legs
+#
+
+copy="Mueh'zala's Hexthread Sarong (De Other Side)"
+legs=,id=179351,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Leggings of the Erudite Scholar (Plaguefall)"
+legs=,id=178761,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Beryllia's Leggings of Endless Torment (Sanguine Depths)"
+legs=,id=178838,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Purge Protocol Legwraps (Spires of Ascension)"
+legs=,id=180107,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

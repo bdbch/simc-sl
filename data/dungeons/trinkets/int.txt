@@ -1,0 +1,39 @@
+# Agility Trinkets
+#
+
+copy="Inscrutable Quantum Device (De Other Side)"
+trinket1=,id=179350,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Unbound Changeling (Mists of Tirna Scithe)"
+trinket1=,id=178708,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Satchel of Misbegotten Minions (Necrotic Wake)"
+trinket1=,id=178772,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Siphoning Phylactery Shard (Necrotic Wake)"
+trinket1=,id=178783,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Infinitely Divisible Ooze (Plaguefall)"
+trinket1=,id=178769,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Overflowing Anima Cage (Sanguine Depths)"
+trinket1=,id=178849,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Lingering Sunmote (Sanguine Depths)"
+trinket1=,id=178850,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Boon of the Archon (Spires of Ascension)"
+trinket1=,id=180119,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Empyreal Ordnance (Spires of Ascension)"
+trinket1=,id=180117,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vial of Spectral Essence (Theater of Pain)"
+trinket1=,id=178810,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Soulletting Ruby (Theater of Pain)"
+trinket1=,id=178809,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

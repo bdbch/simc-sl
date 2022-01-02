@@ -1,0 +1,18 @@
+# Leather Chest
+#
+
+copy="Breastplate of Fatal Contrivances (De Other Side)"
+chest=,id=179346,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Breastplate of Otherworldly Influence (Halls of Atonement)"
+chest=,id=178814,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Breastplate of Brutal Dissonance (Spires of Ascension)"
+chest=,id=180099,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Abdominal Securing Chestguard (Theater of Pain)"
+chest=,id=178793,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

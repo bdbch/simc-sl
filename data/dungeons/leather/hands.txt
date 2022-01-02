@@ -1,0 +1,18 @@
+# Leather Hands
+#
+
+copy="Rocket Chicken Handlers (De Other Side)"
+hands=,id=179336,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gloves of Haunting Fixation (Halls of Atonement)"
+hands=,id=178832,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gloves of Obscure Rituals (Plaguefall)"
+hands=,id=178757,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Winged Hunters' Gloves (Spires of Ascension)"
+hands=,id=180103,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

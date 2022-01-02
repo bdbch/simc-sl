@@ -1,0 +1,15 @@
+# Leather Feet
+#
+
+copy="Shardskin Sabatons (Halls of Atonement)"
+feet=,id=178830,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Striders of Restless Malice (Necrotic Wake)"
+feet=,id=178745,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Boots of Shuddering Matter (Theater of Pain)"
+feet=,id=178796,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

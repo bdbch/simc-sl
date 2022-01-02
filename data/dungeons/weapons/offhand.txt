@@ -1,0 +1,24 @@
+# Offhands
+#
+
+copy="Acidslough Bulwark (Mists of Tirna Scithe)"
+off_hand=,id=178712,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Encrusted Canopic Lid (Necrotic Wake)"
+off_hand=,id=178750,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Barricade of the Endless Empire (Theater of Pain)"
+off_hand=,id=178867,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Nathrian Tabernacle (Halls of Atonement)"
+off_hand=,id=178828,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vessel of Shining Radiance (Sanguine Depths)"
+off_hand=,id=178852,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Deathwalker's Promise (Theater of Pain)"
+off_hand=,id=178868,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

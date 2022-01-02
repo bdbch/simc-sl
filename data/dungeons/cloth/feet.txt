@@ -1,0 +1,18 @@
+# Cloth Feet
+#
+
+copy="Windscale Moccasins (De Other Side)"
+feet=,id=179322,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Slippers of Leavened Station (Halls of Atonement)"
+feet=,id=178831,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stradama's Misplaced Slippers (Plaguefall)"
+feet=,id=178756,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Dark Stride Footwraps (Spires of Ascension)"
+feet=,id=180102,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

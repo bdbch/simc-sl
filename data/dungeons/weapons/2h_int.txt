@@ -1,0 +1,14 @@
+# 2H Int Weapons
+#
+
+copy="Whizblast Walking Stick (De Other Side)"
+main_hand=,id=179339,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Nathrian Ferula (Halls of Atonement)"
+main_hand=,id=178829,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Lakali's Spire of Knowledge (Mists of Tirna Scithe)"
+main_hand=,id=178714,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------

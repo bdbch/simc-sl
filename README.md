@@ -1,0 +1,3 @@
+# SimulationCraft Shadowlands Strings
+
+TBD

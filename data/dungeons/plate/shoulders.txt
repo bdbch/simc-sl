@@ -1,0 +1,18 @@
+# Leather Shoulders
+#
+
+copy="Pauldrons of Unleashed Pride (Halls of Atonement)"
+shoulders=,id=178820,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Prankster's Pauldrons (Mists of Tirna Scithe)"
+shoulders=,id=178697,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vile Butcher's Pauldrons (Necrotic Wake)"
+shoulders=,id=178749,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Unyielding Combatant's Pauldrons (Theater of Pain)"
+shoulders=,id=178802,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

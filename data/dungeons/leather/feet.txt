@@ -1,0 +1,18 @@
+# Leather Feet
+#
+
+copy="Primeval Soul's Ankleguards (De Other Side)"
+feet=,id=179352,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Viscera-Stitched Footpads (Necrotic Wake)"
+feet=,id=178731,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sinsoaked Waders (Sanguine Depths)"
+feet=,id=178837,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vanquished Usurper's Footpads (Theater of Pain)"
+feet=,id=178797,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

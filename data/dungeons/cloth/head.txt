@@ -1,0 +1,18 @@
+# Cloth Head
+#
+
+copy="Cocoonsilk Cowl (Mists of Tirna Scithe)"
+head=,id=178693,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Abominable Visage (Necrotic Wake)"
+head=,id=178732,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Depraved Physician's Mask (Plaguefall)"
+head=,id=178759,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Cowl of the Devoted General (Sanguine Depths)"
+head=,id=178860,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

@@ -1,0 +1,75 @@
+# Rings (Slot 1)
+#
+
+copy="Death God's Signet (De Other Side)"
+finger1=,id=179355,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Signet of the False Accuser (Halls of Atonement)"
+finger1=,id=178824,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stitchflesh's Misplaced Signet (Necrotic Wake)"
+finger1=,id=178736,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ritual Commander's Ring (Necrotic Wake)"
+finger1=,id=178781,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Deranged Surgeon's Band (Plaguefall)"
+finger1=,id=178766,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Arachnid Cipher Ring (Plaguefall)"
+finger1=,id=178933,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Entwined Gorger Tendril (Sanguine Depths)"
+finger1=,id=178848,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Bloodoath Signet (Theater of Pain)"
+finger1=,id=178871,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fleshfused Circle (Theater of Pain)"
+finger1=,id=178869,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ritual Bone Band (Theater of Pain)"
+finger1=,id=178870,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ring of Perpetual Conflict (Theater of Pain)"
+finger1=,id=178872,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
+# Rings (Slot 2)
+#
+
+copy="Death God's Signet (De Other Side)"
+finger2=,id=179355,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Signet of the False Accuser (Halls of Atonement)"
+finger2=,id=178824,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stitchflesh's Misplaced Signet (Necrotic Wake)"
+finger2=,id=178736,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ritual Commander's Ring (Necrotic Wake)"
+finger2=,id=178781,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Deranged Surgeon's Band (Plaguefall)"
+finger2=,id=178766,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Arachnid Cipher Ring (Plaguefall)"
+finger2=,id=178933,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Entwined Gorger Tendril (Sanguine Depths)"
+finger2=,id=178848,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Bloodoath Signet (Theater of Pain)"
+finger2=,id=178871,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fleshfused Circle (Theater of Pain)"
+finger2=,id=178869,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ritual Bone Band (Theater of Pain)"
+finger2=,id=178870,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Ring of Perpetual Conflict (Theater of Pain)"
+finger2=,id=178872,ilevel=246,bonus_id=7359/6652/6652
+

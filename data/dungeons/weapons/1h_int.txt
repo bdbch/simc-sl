@@ -1,0 +1,20 @@
+# 1H Int Weapons
+#
+
+copy="Surgical Pustule Extractor (Plaguefall)"
+main_hand=,id=178753,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fleshcrafter's Knife (Theater of Pain)"
+main_hand=,id=178789,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Scithewood Scepter (Mists of Tirna Scithe)"
+main_hand=,id=178709,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Amarth's Spellblade (Necrotic Wake)"
+main_hand=,id=178737,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Kaal's Gloomblade (Sanguine Depths)"
+main_hand=,id=178856,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------

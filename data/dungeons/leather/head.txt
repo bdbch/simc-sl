@@ -1,0 +1,18 @@
+# Leather Head
+#
+
+copy="Hood of Refracted Shadows (Halls of Atonement)"
+head=,id=178817,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Hood of the Hidden Path (Mists of Tirna Scithe)"
+head=,id=178691,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Digested Interrogator's Gaze (Plaguefall)"
+head=,id=178760,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vicious Surge Faceguard (Spires of Ascension)"
+head=,id=180106,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

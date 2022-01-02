@@ -1,0 +1,18 @@
+# Leather Wrists
+#
+
+copy="Hiveswarm Bracers (Mists of Tirna Scithe)"
+wrists=,id=178703,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Tortured Assistant's Bindings (Plaguefall)"
+wrists=,id=178767,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Shackles of Alluring Vitality (Sanguine Depths)"
+wrists=,id=178846,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fallen Paragon's Armguards (Spires of Ascension)"
+wrists=,id=180114,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

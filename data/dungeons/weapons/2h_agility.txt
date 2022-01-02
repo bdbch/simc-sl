@@ -1,0 +1,48 @@
+# 2H Agility Weapons
+#
+
+copy="Halberd of the Aranakk (Plaguefall)"
+main_hand=,id=178929,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Devos's Cacophonous Poleaxe (Spires of Ascension)"
+main_hand=,id=180096,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Xav's Pike of Authority (Theater of Pain)"
+main_hand=,id=178865,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Collector's Pulse Staff (De Other Side)"
+main_hand=,id=179347,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Quarterstaff of Discordant Ethic (Spires of Ascension)"
+main_hand=,id=180097,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Hungering Devourer's Twinblade (Sanguine Depths)"
+main_hand=,id=178854,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
+# 2H Agility Weapons (Offhand)
+#
+
+copy="Halberd of the Aranakk (Plaguefall)"
+off_hand=,id=178929,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Devos's Cacophonous Poleaxe (Spires of Ascension)"
+off_hand=,id=180096,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Xav's Pike of Authority (Theater of Pain)"
+off_hand=,id=178865,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Collector's Pulse Staff (De Other Side)"
+off_hand=,id=179347,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Quarterstaff of Discordant Ethic (Spires of Ascension)"
+off_hand=,id=180097,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Hungering Devourer's Twinblade (Sanguine Depths)"
+off_hand=,id=178854,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

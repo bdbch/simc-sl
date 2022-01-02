@@ -1,0 +1,18 @@
+# Cloth Shoulders
+#
+
+copy="Ingra Maloch's Mantle (Mists of Tirna Scithe)"
+shoulders=,id=178696,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Reanimator's Mantle (Necrotic Wake)"
+shoulders=,id=178740,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Castigator's Mantle (Sanguine Depths)"
+shoulders=,id=178859,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Plague-Licked Amice (Theater of Pain)"
+shoulders=,id=178803,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

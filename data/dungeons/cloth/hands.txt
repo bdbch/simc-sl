@@ -1,0 +1,18 @@
+# Cloth Hands
+#
+
+copy="Stonefiend Shaper's Mitts (Halls of Atonement)"
+hands=,id=178833,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Tricksprite Gloves (Mists of Tirna Scithe)"
+hands=,id=178705,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gory Surgeon's Gloves (Necrotic Wake)"
+hands=,id=178748,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Mitts of Flawless Duplication (Plaguefall)"
+hands=,id=178930,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

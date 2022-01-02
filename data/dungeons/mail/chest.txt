@@ -1,0 +1,18 @@
+# Leather Chest
+#
+
+copy="Harness of Twisted Whims (De Other Side)"
+chest=,id=179353,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Soaring Decimator's Hauberk (Halls of Atonement)"
+chest=,id=178815,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Forsworn Stalker's Hauberk (Spires of Ascension)"
+chest=,id=180100,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Triumphant Combatant's Chainmail (Theater of Pain)"
+chest=,id=178794,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

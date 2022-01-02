@@ -1,0 +1,15 @@
+# Necks
+#
+
+copy="Sin Stained Pendant (Halls of Atonement)"
+neck=,id=178827,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Trailspinner Pendant (Mists of Tirna Scithe)"
+neck=,id=178707,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Azure-Venom Choker (Spires of Ascension)"
+neck=,id=180115,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

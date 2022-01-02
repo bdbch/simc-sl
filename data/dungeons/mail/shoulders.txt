@@ -1,0 +1,18 @@
+# Leather Shoulders
+#
+
+copy="Spatial Rift Striders (De Other Side)"
+shoulders=,id=179345,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Mantle of Ephemeral Visages (Halls of Atonement)"
+shoulders=,id=178821,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Blightbone Spaulders (Necrotic Wake)"
+shoulders=,id=178733,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Plagueborne Shoulderguards (Plaguefall)"
+shoulders=,id=178764,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

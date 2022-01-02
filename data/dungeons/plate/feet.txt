@@ -1,0 +1,15 @@
+# Leather Feet
+#
+
+copy="Dynamo Doomstompers (De Other Side)"
+feet=,id=179338,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sabatons of the Rushing Juggernaut (Sanguine Depths)"
+feet=,id=178836,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Warboots of Ruthless Conviction (Spires of Ascension)"
+feet=,id=180101,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

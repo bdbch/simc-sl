@@ -1,0 +1,18 @@
+# Leather Shoulders
+#
+
+copy="Far Traveler's Shoulderpads (De Other Side)"
+shoulders=,id=179344,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Undying Chill Shoulderpads (Necrotic Wake)"
+shoulders=,id=178779,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Malodorous Gristle-Sown Spaulders (Plaguefall)"
+shoulders=,id=178763,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Wicked Bladewing Pauldrons (Sanguine Depths)"
+shoulders=,id=178858,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

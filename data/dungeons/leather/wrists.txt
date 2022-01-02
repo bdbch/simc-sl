@@ -1,0 +1,18 @@
+# Leather Wrists
+#
+
+copy="Bands of the Undergrowth (Mists of Tirna Scithe)"
+wrists=,id=178702,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Risen Monstrosity Cuffs (Necrotic Wake)"
+wrists=,id=178741,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fastened Venombarb Binds (Plaguefall)"
+wrists=,id=178934,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Radiant Light Binders (Sanguine Depths)"
+wrists=,id=178847,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

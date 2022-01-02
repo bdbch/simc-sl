@@ -1,0 +1,72 @@
+# 1H Agility Weapons
+#
+
+copy="Stone General's Edge (Sanguine Depths)"
+main_hand=,id=178857,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Penitent Edge (Spires of Ascension)"
+main_hand=,id=180095,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stoneguardian's Morningstar (Halls of Atonement)"
+main_hand=,id=178834,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gorebound Predator's Gavel (Theater of Pain)"
+main_hand=,id=178864,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Bloodspiller (De Other Side)"
+main_hand=,id=179328,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Poxstorm Longsword of Pestilence (Plaguefall)"
+main_hand=,id=178754,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Tanglewood Thorn (Mists of Tirna Scithe)"
+main_hand=,id=178710,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stitchflesh's Scalpel (Necrotic Wake)"
+main_hand=,id=178743,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Domina's Oozing Shiv (Plaguefall)"
+main_hand=,id=178928,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Voracious Gorger Spine (Sanguine Depths)"
+main_hand=,id=178853,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
+# 1H Agility Weapons (Offhand)
+#
+
+copy="Stone General's Edge (Sanguine Depths)"
+off_hand=,id=178857,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Penitent Edge (Spires of Ascension)"
+off_hand=,id=180095,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stoneguardian's Morningstar (Halls of Atonement)"
+off_hand=,id=178834,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gorebound Predator's Gavel (Theater of Pain)"
+off_hand=,id=178864,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Bloodspiller (De Other Side)"
+off_hand=,id=179328,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Poxstorm Longsword of Pestilence (Plaguefall)"
+off_hand=,id=178754,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Tanglewood Thorn (Mists of Tirna Scithe)"
+off_hand=,id=178710,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Stitchflesh's Scalpel (Necrotic Wake)"
+off_hand=,id=178743,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Domina's Oozing Shiv (Plaguefall)"
+off_hand=,id=178928,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Voracious Gorger Spine (Sanguine Depths)"
+off_hand=,id=178853,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

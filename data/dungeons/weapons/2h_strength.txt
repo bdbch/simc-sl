@@ -1,0 +1,36 @@
+# 2H Strength Weapons
+#
+
+copy="Drustlord's Greataxe (Mists of Tirna Scithe)"
+main_hand=,id=178713,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Dessia's Decimating Decapitator (Theater of Pain)"
+main_hand=,id=178866,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Zin'khas Blade of the Fallen God (De Other Side)"
+main_hand=,id=179330,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Rimebinder's Runeblade (Necrotic Wake)"
+main_hand=,id=178780,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
+# 2H Strength Weapons (Offhand)
+#
+
+copy="Drustlord's Greataxe (Mists of Tirna Scithe)"
+off_hand=,id=178713,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Dessia's Decimating Decapitator (Theater of Pain)"
+off_hand=,id=178866,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Zin'khas Blade of the Fallen God (De Other Side)"
+off_hand=,id=179330,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Rimebinder's Runeblade (Necrotic Wake)"
+off_hand=,id=178780,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

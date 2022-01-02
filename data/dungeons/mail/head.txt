@@ -1,0 +1,18 @@
+# Leather Head
+#
+
+copy="Nathrian Usurper's Mask (Halls of Atonement)"
+head=,id=178816,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Soulthorn Visage (Mists of Tirna Scithe)"
+head=,id=178692,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Rattling Deadeye Hood (Necrotic Wake)"
+head=,id=178738,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Amphitheater Stalker's Hood (Theater of Pain)"
+head=,id=178799,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

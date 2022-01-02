@@ -1,0 +1,18 @@
+# Cloth Chest
+#
+
+copy="Manastorm's Magnificent Threads (De Other Side)"
+chest=,id=179335,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sinlight Shroud (Halls of Atonement)"
+chest=,id=178813,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sinister Requiem Vestments (Spires of Ascension)"
+chest=,id=180098,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Soulsewn Vestments (Theater of Pain)"
+chest=,id=178792,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

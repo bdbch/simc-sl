@@ -1,0 +1,18 @@
+# Leather Hands
+#
+
+copy="Fogweaver Gauntlets (Mists of Tirna Scithe)"
+hands=,id=178706,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fleshfused Crushers (Plaguefall)"
+hands=,id=178775,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Guilewind Stone Talons (Sanguine Depths)"
+hands=,id=178840,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Distorted Construct's Gauntlets (Spires of Ascension)"
+hands=,id=180104,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

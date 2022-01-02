@@ -1,0 +1,18 @@
+# Leather Waist
+#
+
+copy="Clasp of Waning Shadow (Mists of Tirna Scithe)"
+waist=,id=178700,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Belt of Wretched Manipulations (Plaguefall)"
+waist=,id=178932,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Executor's Prideful Girdle (Sanguine Depths)"
+waist=,id=178843,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Dark Praetorian's Clasp (Spires of Ascension)"
+waist=,id=180110,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

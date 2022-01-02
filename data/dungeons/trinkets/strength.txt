@@ -1,0 +1,36 @@
+# Strength Trinkets
+#
+
+copy="Blood-Spattered Scale (De Other Side)"
+trinket1=,id=179331,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Inscrutable Quantum Device (De Other Side)"
+trinket1=,id=179350,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Overwhelming Power Crystal (De Other Side)"
+trinket1=,id=179342,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Pulsating Stoneheart (Halls of Atonement)"
+trinket1=,id=178825,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Spare Meat Hook (Necrotic Wake)"
+trinket1=,id=178751,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Phial of Putrefaction (Plaguefall)"
+trinket1=,id=178771,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Decanter of Anima-Charged Winds (Sanguine Depths)"
+trinket1=,id=178861,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Anima Field Emitter (Spires of Ascension)"
+trinket1=,id=180118,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Viscera of Coalesced Hatred (Theater of Pain)"
+trinket1=,id=178808,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Grim Codex (Theater of Pain)"
+trinket1=,id=178811,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

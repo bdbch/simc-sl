@@ -1,0 +1,18 @@
+# Leather Waist
+#
+
+copy="Girdle of the Soulflayer (De Other Side)"
+waist=,id=179326,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fused Bone Greatbelt (Necrotic Wake)"
+waist=,id=178734,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Scarred Bloodbound Girdle (Plaguefall)"
+waist=,id=178931,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Waistguard of Expurged Anguish (Sanguine Depths)"
+waist=,id=178842,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

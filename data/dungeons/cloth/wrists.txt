@@ -1,0 +1,18 @@
+# Cloth Wrists
+#
+
+copy="Deathshackle Wristwraps (Mists of Tirna Scithe)"
+wrists=,id=178704,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Necropolis Lord's Shackles (Necrotic Wake)"
+wrists=,id=178782,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Essence Surge Binders (Sanguine Depths)"
+wrists=,id=178844,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Contaminated Gauze Wristwraps (Theater of Pain)"
+wrists=,id=178806,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

@@ -1,0 +1,18 @@
+# Leather Chest
+#
+
+copy="Rainshadow Hauberk (Mists of Tirna Scithe)"
+chest=,id=178698,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Freshly Embalmed Jerkin (Necrotic Wake)"
+chest=,id=178744,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Anima-Splattered Hide (Sanguine Depths)"
+chest=,id=178835,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Vest of Concealed Secrets (Theater of Pain)"
+chest=,id=178795,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

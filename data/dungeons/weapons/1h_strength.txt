@@ -1,0 +1,48 @@
+# 1H Strength Weapons
+#
+
+copy="Axe of the Deadgrove (Mists of Tirna Scithe)"
+main_hand=,id=178711,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gorestained Cleaver (Theater of Pain)"
+main_hand=,id=178863,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Supercollider (De Other Side)"
+main_hand=,id=179340,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Engorged Worm Smasher (Necrotic Wake)"
+main_hand=,id=178730,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sophisticated Bonecracker (Plaguefall)"
+main_hand=,id=178752,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sinsmasher (Sanguine Depths)"
+main_hand=,id=178855,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
+# 1H Strength Weapons (Offhand)
+#
+
+copy="Axe of the Deadgrove (Mists of Tirna Scithe)"
+off_hand=,id=178711,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Gorestained Cleaver (Theater of Pain)"
+off_hand=,id=178863,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Supercollider (De Other Side)"
+off_hand=,id=179340,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Engorged Worm Smasher (Necrotic Wake)"
+off_hand=,id=178730,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sophisticated Bonecracker (Plaguefall)"
+off_hand=,id=178752,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sinsmasher (Sanguine Depths)"
+off_hand=,id=178855,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

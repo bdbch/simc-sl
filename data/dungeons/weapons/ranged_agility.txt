@@ -1,0 +1,14 @@
+# Ranged Agility Weapons
+#
+
+copy="Xy Cartel Crossbow (De Other Side)"
+main_hand=,id=179348,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Blight Belcher (Necrotic Wake)"
+main_hand=,id=178735,ilevel=246,bonus_id=7359/6652/6652
+
+copy="The Philosopher (Spires of Ascension)"
+main_hand=,id=180112,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------

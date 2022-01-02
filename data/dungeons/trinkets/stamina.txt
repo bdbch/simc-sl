@@ -1,0 +1,9 @@
+# Stamina Trinkets
+#
+
+copy="Slimy Consumptive Organ (Plaguefall)"
+trinket1=,id=178770,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

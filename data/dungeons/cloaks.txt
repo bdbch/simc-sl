@@ -1,0 +1,18 @@
+# Cloaks
+#
+
+copy="Dealer Xy'exa's Cape (De Other Side)"
+back=,id=179349,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Blighted Margrave's Cloak (Plaguefall)"
+back=,id=178755,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Cloak of Enveloping Manifestations (Sanguine Depths)"
+back=,id=178851,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Drape of Twisted Loyalties (Spires of Ascension)"
+back=,id=180123,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

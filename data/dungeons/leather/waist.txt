@@ -1,0 +1,18 @@
+# Leather Waist
+#
+
+copy="Waistcord of Dark Devotion (Halls of Atonement)"
+waist=,id=178823,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Sapgorger Belt (Mists of Tirna Scithe)"
+waist=,id=178699,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Shadowhirl Waistwrap (Spires of Ascension)"
+waist=,id=180111,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Girdle of Shattered Dreams (Theater of Pain)"
+waist=,id=178805,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

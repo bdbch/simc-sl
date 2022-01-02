@@ -1,0 +1,18 @@
+# Leather Head
+#
+
+copy="Wing Commander's Helmet (Halls of Atonement)"
+head=,id=178812,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Wrathbark Greathelm (Mists of Tirna Scithe)"
+head=,id=178694,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Darkfrost Helmet (Necrotic Wake)"
+head=,id=178777,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Plague Handler's Greathelm (Plaguefall)"
+head=,id=178773,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+

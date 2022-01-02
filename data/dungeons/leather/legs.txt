@@ -1,0 +1,18 @@
+# Leather Legs
+#
+
+copy="Soulfeather Breeches (De Other Side)"
+legs=,id=179324,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Skyterror's Stonehide Leggings (Halls of Atonement)"
+legs=,id=178819,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Abyssal Disharmony Breeches (Spires of Ascension)"
+legs=,id=180108,ilevel=246,bonus_id=7359/6652/6652
+
+copy="Fearless Challenger's Leggings (Theater of Pain)"
+legs=,id=178801,ilevel=246,bonus_id=7359/6652/6652
+
+#
+# ---------------
+
